@@ -3,7 +3,8 @@ import filecmp
 from dateutil.relativedelta import *
 from datetime import datetime
 
-### a link to your Project 1 repository on GitHub.
+# link to Project 1 repository on GitHub.
+# https://github.com/wiiilla/SI206-Project1
 
 def getData(file):
 
